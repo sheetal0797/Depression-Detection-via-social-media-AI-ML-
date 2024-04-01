@@ -1,0 +1,2 @@
+python DepressionDetection.py
+pause
